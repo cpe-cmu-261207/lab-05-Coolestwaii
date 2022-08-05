@@ -9,3 +9,4 @@ https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EaPu0VTki
 ใส่ GitHub page URL ด้านล่างนี้
 
 [YOUR GITHUB PAGE URL]
+ทำตามตัวอย่างในลิ้งแล้วไม่ขึ้นให้ค่ะ
